@@ -1,1 +1,2 @@
-A Swing demo for portfolio purposes
+A Swing demo for portfolio purposes.
+It includes JTree implementation.
