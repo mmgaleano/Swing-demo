@@ -3,3 +3,4 @@ notes for future releases.
 It needs to be updated constanly.
 
 01: added to gerrit
+02: New edit
