@@ -1,3 +1,2 @@
 A Swing demo for portfolio purposes.
-It includes JTree example.
-new change for this file.
+It includes JTree example on display and modification.
